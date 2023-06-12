@@ -11,11 +11,9 @@ you submit (including working with recent versions of Laravel), or any
 feature requests you have, will likely be ignored.
 
 If you want to use a maintained version of this package, you can:
-- [create a new fork](https://github.com/cviebrock/laravel-elasticsearch/fork),
-- [use an existing fork](https://github.com/cviebrock/laravel-elasticsearch/forks),
-- or migrate to the package that has taken over development:
-
-[mailerlite/laravel-elasticsearch](https://github.com/mailerlite/laravel-elasticsearch)
+- [create a new fork](https://github.com/cviebrock/laravel-elasticsearch/fork)
+- [use an existing fork](https://github.com/cviebrock/laravel-elasticsearch/forks)
+- migrate to the package that has taken over development: **[mailerlite/laravel-elasticsearch](https://github.com/mailerlite/laravel-elasticsearch)**
 
 
 ## Documentation
