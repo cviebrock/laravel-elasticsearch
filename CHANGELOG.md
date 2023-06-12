@@ -1,5 +1,10 @@
 # Changelog
 
+## 10.0.2 - 12-Jun-2023
+
+- Abandoned package.  https://en.wikipedia.org/wiki/So_Long,_and_Thanks_for_All_the_Fish
+
+
 ## 10.0.1 - 12-Jun-2023
 
 - bug fixes and additional documentation (thanks @PrinsFrank and @shuvroroy)
